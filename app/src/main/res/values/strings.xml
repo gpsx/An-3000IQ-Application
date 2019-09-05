@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">An 3000 QI \napplication</string>
+    <string name="character_name_placeholder">Character name</string>
+    <string name="status_placeholder">Status:</string>
+    <string name="gender_placeholder">Gender:</string>
+    <string name="species_placeholder">Species:</string>
+    <string name="img_description">Image Placeholder</string>
+    <string name="location_placeholder">Current Location:</string>
+    <string name="origin_placeholder">Origin:</string>
+    <string name="episode_placeholder">Episodes:</string>
+    <string name="add_favorite">Add to favorites</string>
+    <string name="favorite">Favorite</string>
+    <string name="remove_favorite">Remove from favorites</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="fail">Morty, this asshole doesn\'t know what is internet</string>
+    <string name="reload">RELOAD</string>
+    <string name="seeall">All characters</string>
+    <string name="favorites">Favorites characters</string>
+    <string name="search">Search</string>
+    <string name="copyright">Made with 👌 by Guilherme Santos</string>
+    <string name="search_hint">Type the name of the character…</string>
+</resources>
